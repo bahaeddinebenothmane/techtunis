@@ -1,4 +1,4 @@
-detailLight: minimum data:nom,url,image,description,prix,[{key:value}],[picto],[crossed-out-price],actions[panier,wishlist,comparateur],url-clic-type[modal,redirection]
+﻿detailLight: minimum data:nom,url,image,description,prix,[{key:value}],[picto],[crossed-out-price],actions[panier,wishlist,comparateur],url-clic-type[modal,redirection]
 	home
 		grid:data,card,all actions 
 		caroussel:data,card,all actions 
@@ -37,3 +37,4 @@ detailLight
 =======
 	]
 >>>>>>> 854b1b72936089e6255f81da592981c9279750a4
+//test pull request
